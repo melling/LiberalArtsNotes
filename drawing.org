@@ -7,7 +7,14 @@ Menu: [[file:cinema.org][Cinema]] | [[file:drawing.org][Drawing]] | [[file:music
 
 * Inbox
 + [[https://adrianaburgosdrawing.wordpress.com/tag/planar-analysis/][On Planar Analysis]]
++ [[http://drawabox.com][Draw a Box]]
+ - [[https://www.reddit.com/r/ArtFundamentals][subreddit for site]]
 
 * Sycra
 + [[http://youtu.be/oKFfSl-EBfI][How to Practice Drawing]]
- 
+
+
+* Books
+
+
+* Materials
