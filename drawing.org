@@ -15,7 +15,14 @@ Menu: [[file:cinema.org][Cinema]] | [[file:drawing.org][Drawing]] | [[file:music
  - Proportion tutorials are the best for beginners @1:05
  - Keep drawing the same thing, an eye for example, until you achieve speed
 
+* Videos
++ [[https://www.youtube.com/watch?v=eJWLaDSNBAI][How to Draw Foreshortening with the Coil Technique]]
+
 * Books
 
 
 * Materials
++ Canson Sketch Book
++ Pilot Supergrip Pencil 0.5mm
+ - Use 2B lead
++ Hi Polymer Eraser - Pentel
