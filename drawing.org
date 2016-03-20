@@ -1,0 +1,9 @@
+#+STARTUP: showall
+#+TITLE: Drawing
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+
+Menu: [[file:cinema.org][Cinema]] | [[file:drawing.org][Drawing]] | [[file:music.org][Music]] | [[file:photography.org][Photography]] | 
+
+* Inbox
++ https://adrianaburgosdrawing.wordpress.com/tag/planar-analysis/
