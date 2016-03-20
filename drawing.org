@@ -11,6 +11,7 @@ Menu: [[file:cinema.org][Cinema]] | [[file:drawing.org][Drawing]] | [[file:music
  - [[https://www.reddit.com/r/ArtFundamentals][subreddit for site]]
 
 * Sycra
++ http://www.sycra.net
 + [[http://youtu.be/oKFfSl-EBfI][How to Practice Drawing]]
  - Proportion tutorials are the best for beginners @1:05
  - Keep drawing the same thing, an eye for example, until you achieve speed
