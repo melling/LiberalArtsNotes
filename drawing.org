@@ -14,6 +14,8 @@ Menu: [[file:cinema.org][Cinema]] | [[file:drawing.org][Drawing]] | [[file:music
 + [[http://youtu.be/oKFfSl-EBfI][How to Practice Drawing]]
  - Proportion tutorials are the best for beginners @1:05
  - Keep drawing the same thing, an eye for example, until you achieve speed
++ [[http://youtu.be/qxZbsLBd3oU][Art Advice ...]]
+ - Check out his links
 
 * Videos
 + [[https://www.youtube.com/watch?v=eJWLaDSNBAI][How to Draw Foreshortening with the Coil Technique]]
