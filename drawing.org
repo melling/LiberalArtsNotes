@@ -23,6 +23,7 @@ Menu: [[file:cinema.org][Cinema]] | [[file:drawing.org][Drawing]] | [[file:music
 
 * Books
 + Burne Hogarth and Andrew Loomis
++ Drawing on the Right Side of the Brain
 
 * Materials
 + Canson Sketch Book
