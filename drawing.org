@@ -21,6 +21,7 @@ Menu: [[file:cinema.org][Cinema]] | [[file:drawing.org][Drawing]] | [[file:music
 
 * Videos
 + [[https://www.youtube.com/watch?v=eJWLaDSNBAI][How to Draw Foreshortening with the Coil Technique]]
++ http://www.proko.com/figure-drawing-fundamentals-course/
 
 * Books
 + Burne Hogarth and Andrew Loomis
