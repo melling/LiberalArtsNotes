@@ -7,6 +7,8 @@ Menu: [[file:cinema.org][Cinema]] | [[file:drawing.org][Drawing]] | [[file:music
 
 * Inbox
 + http://www.openculture.com/2016/03/google-makes-its-149-photo-editing-software-now-completely-free-to-download.html
++ [[http://digital-photography-school.com/how-to-clean-your-photography-gear-and-keep-it-in-good-shape/][How to Clean Your Photography Gear and Keep it in Good Shape - Digital Photography School]]
+
 
 * Videos
 
