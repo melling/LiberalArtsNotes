@@ -6,7 +6,7 @@
 Menu: [[file:cinema.org][Cinema]] | [[file:drawing.org][Drawing]] | [[file:music.org][Music]] | [[file:photography.org][Photography]] | 
 
 * Inbox
-
++ https://m.imgur.com/a/HKLnc
 + [[http://www.newstatesman.com/culture/art-and-design/2013/05/john-berger-drawing-discovery][John Berger: Drawing is discovery]]
 + [[https://sites.google.com/site/ourwici/][Temporary link to One Stop Beginners Guide]]
  - https://archive.is/GNIq1 - HOW TO DRAW - an /ic/ guide
