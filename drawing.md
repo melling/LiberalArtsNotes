@@ -4,6 +4,7 @@ Menu: [Cinema](cinema.md) | [Drawing](drawing.md) | [Music](music.md) | [Photogr
 
 ## Inbox
 
++ [Ask HN: How can I learn how to paint?](https://news.ycombinator.com/item?id=19375624)
 + https://m.imgur.com/a/HKLnc
 + [John Berger: Drawing is discovery](http://www.newstatesman.com/culture/art-and-design/2013/05/john-berger-drawing-discovery)
 + [Temporary link to One Stop Beginners Guide](https://sites.google.com/site/ourwici/)
