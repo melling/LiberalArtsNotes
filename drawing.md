@@ -5,7 +5,7 @@ Menu: [Cinema](cinema.md) | [Drawing](drawing.md) | [Music](music.md) | [Photogr
 ## Inbox
 
 + [Ask HN: How can I learn how to paint?](https://news.ycombinator.com/item?id=19375624)
-+ https://m.imgur.com/a/HKLnc
++ [ how to draw with your eyes ](https://m.imgur.com/a/HKLnc)
 + [John Berger: Drawing is discovery](http://www.newstatesman.com/culture/art-and-design/2013/05/john-berger-drawing-discovery)
 + [Temporary link to One Stop Beginners Guide](https://sites.google.com/site/ourwici/)
    - https://archive.is/GNIq1 - HOW TO DRAW - an /ic/ guide
@@ -32,7 +32,7 @@ Menu: [Cinema](cinema.md) | [Drawing](drawing.md) | [Music](music.md) | [Photogr
 ## Books
 
 + Burne Hogarth and Andrew Loomis
-+ Drawing on the Right Side of the Brain
++ [Drawing on the Right Side of the Brain](https://www.amazon.com/Drawing-Right-Side-Brain-Definitive/dp/1585429201/)
 + http://www.alexhays.com/loomis/
   - Fun with a Pencil
 
